@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/IcyEazy/IcyEazy-social-media-dashboard-with-theme-switcher.git)
+- Live Site URL: [Add live site URL here](https://icyeazy.github.io/IcyEazy-social-media-dashboard-with-theme-switcher/)
 
 ## My process
 

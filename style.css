@@ -44,6 +44,7 @@ hr{
     padding-top: 1rem;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.05);
     cursor: pointer;
+    transition: all 0.4s;
 }
 .follows:hover{
     background-color: hsl(229, 36%, 24%);
@@ -77,6 +78,7 @@ hr{
     border-radius: 0.5rem;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.05);
     cursor: pointer;
+    transition: all 0.4s;
 }
 .over-cont:hover{
     background-color: hsl(229, 36%, 24%);
